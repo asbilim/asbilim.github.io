@@ -2,7 +2,7 @@ import string
 import itertools
 
 charset = string.ascii_letters+string.digits+string.punctuation
-css = "body{ background: black;}\n"
+css = "body{ background: black};\n"
 know = "y"
 
 combinations = itertools.combinations(charset,1)
